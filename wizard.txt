@@ -1,0 +1,8 @@
+
+name="kisswizardv1"
+url="https://www.dropbox.com/s/rneebed44sicjc0/keepitsimple.zip?dl=1"
+img="https://www.dropbox.com/s/cqhymt8x5btlx65/kiss%20icon.png?dl=1"
+fanart="https://www.dropbox.com/s/r3rhjqnl23l9pkm/kiss.jpg?dl=1"
+description="KISS v1 Wizard"
+
+
